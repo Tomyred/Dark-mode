@@ -32,8 +32,8 @@ function App() {
      </div>
      <div className={[darkMode[1]]}>
        <form onSubmit={e => e.preventDefault()} >
-         <input/>
-         <input/>
+         <input placeholder="Nombre"/>
+         <input placeholder="Mail"/>
          <div className="buttons">
            <button className="button-exit">Exit</button>
          <button className="button-save">Save</button>
