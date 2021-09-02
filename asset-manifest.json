@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Dark-mode/static/css/main.0e4940a6.chunk.css",
+    "main.css": "/Dark-mode/static/css/main.a8ffd652.chunk.css",
     "main.js": "/Dark-mode/static/js/main.ddd40199.chunk.js",
     "main.js.map": "/Dark-mode/static/js/main.ddd40199.chunk.js.map",
     "runtime-main.js": "/Dark-mode/static/js/runtime-main.db5cf992.js",
@@ -10,7 +10,7 @@
     "static/js/3.ee782f4e.chunk.js": "/Dark-mode/static/js/3.ee782f4e.chunk.js",
     "static/js/3.ee782f4e.chunk.js.map": "/Dark-mode/static/js/3.ee782f4e.chunk.js.map",
     "index.html": "/Dark-mode/index.html",
-    "static/css/main.0e4940a6.chunk.css.map": "/Dark-mode/static/css/main.0e4940a6.chunk.css.map",
+    "static/css/main.a8ffd652.chunk.css.map": "/Dark-mode/static/css/main.a8ffd652.chunk.css.map",
     "static/js/2.9caaf781.chunk.js.LICENSE.txt": "/Dark-mode/static/js/2.9caaf781.chunk.js.LICENSE.txt",
     "static/media/moon.e5585e50.png": "/Dark-mode/static/media/moon.e5585e50.png",
     "static/media/sun.6d48da50.png": "/Dark-mode/static/media/sun.6d48da50.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.db5cf992.js",
     "static/js/2.9caaf781.chunk.js",
-    "static/css/main.0e4940a6.chunk.css",
+    "static/css/main.a8ffd652.chunk.css",
     "static/js/main.ddd40199.chunk.js"
   ]
 }
